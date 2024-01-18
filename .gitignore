@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Crypto_Clustering copy.ipynb
 # C extensions
 *.so
 
+.gitignore
 # Distribution / packaging
 .Python
 build/
